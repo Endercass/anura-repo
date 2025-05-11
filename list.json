@@ -1,0 +1,50 @@
+{
+  "apps": [
+    {
+      "name": "Test App",
+      "icon": "null.svg",
+      "summary": "Empty App",
+      "desc": "Empty App",
+      "package": "anura.testapp",
+      "data": "anura.testapp.app.zip",
+      "version": "0.0.0",
+      "category": "Test",
+
+      "depends": ["anura.libtest"],
+      "provides": ["anura.testapp"],
+      "conflicts": []
+    }
+  ],
+  "libs": [
+    {
+      "name": "Test Lib",
+      "icon": "null.svg",
+      "summary": "Empty Lib",
+      "desc": "Empty Lib",
+      "package": "anura.libtest",
+      "data": "anura.libtest.lib.zip",
+      "version": "0.0.0",
+      "category": "Test",
+
+      "depends": [],
+      "provides": ["anura.libtest"],
+      "conflicts": []
+    }
+  ],
+  "packages": [
+    {
+      "name": "Test Package",
+      "icon": "null.svg",
+      "summary": "Empty Package",
+      "desc": "Empty Package",
+      "package": "anura.pkgtest",
+      "data": "anura.pkgtest.pkg.zip",
+      "version": "0.0.0",
+      "category": "Test",
+
+      "depends": [],
+      "provides": ["anura.pkgtest"],
+      "conflicts": []
+    }
+  ]
+}

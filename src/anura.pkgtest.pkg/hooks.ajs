@@ -1,0 +1,5 @@
+#! {"type":"module"}
+
+export function main(args) {
+  console.log("Hello from hooks.ajs, stage: " + args[0]);
+}

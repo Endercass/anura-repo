@@ -1,0 +1,14 @@
+{
+  "name": "Test Lib",
+  "icon": "null.svg",
+  "summary": "Empty Lib",
+  "desc": "Empty Lib",
+  "package": "anura.libtest",
+  "data": "anura.libtest.lib.zip",
+  "version": "0.0.0",
+  "category": "Test",
+
+  "depends": [],
+  "provides": ["anura.libtest"],
+  "conflicts": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Test App",
+  "icon": "null.svg",
+  "summary": "Empty App",
+  "desc": "Empty App",
+  "package": "anura.testapp",
+  "data": "anura.testapp.app.zip",
+  "version": "0.0.0",
+  "category": "Test",
+
+  "depends": ["anura.libtest"],
+  "provides": ["anura.testapp"],
+  "conflicts": []
+}

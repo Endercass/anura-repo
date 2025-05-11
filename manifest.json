@@ -1,0 +1,9 @@
+{
+  "name": "Anura Repository",
+  "maintainer": {
+    "name": "Somebody",
+    "email": "support@example.com",
+    "website": "example.com"
+  },
+  "version": "1.0.0p1"
+}

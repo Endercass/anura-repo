@@ -1,0 +1,12 @@
+{
+  "name": "Test App",
+  "type": "auto",
+  "package": "anura.testapp",
+  "index": "index.html",
+  "icon": "null.svg",
+  "wininfo": {
+    "title": "Test App",
+    "width": "800px",
+    "height": "600px"
+  }
+}

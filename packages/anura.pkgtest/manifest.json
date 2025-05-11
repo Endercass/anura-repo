@@ -1,0 +1,14 @@
+{
+  "name": "Test Package",
+  "icon": "null.svg",
+  "summary": "Empty Package",
+  "desc": "Empty Package",
+  "package": "anura.pkgtest",
+  "data": "anura.pkgtest.pkg.zip",
+  "version": "0.0.0",
+  "category": "Test",
+
+  "depends": [],
+  "provides": ["anura.pkgtest"],
+  "conflicts": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Test App",
+  "icon": "null.svg",
+  "package": "anura.libtest",
+  "versions": {
+    "0.0.0": "index.js"
+  },
+  "currentVersion": "0.0.0",
+  "installHook": "install.js"
+}

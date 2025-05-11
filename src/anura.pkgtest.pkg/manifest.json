@@ -1,0 +1,10 @@
+{
+  "name": "Test Package",
+  "depends": [],
+  "provides": ["anura.pkgtest"],
+  "conflicts": [],
+  "package": "anura.pkgtest",
+  "version": "0.0.0",
+  "hooks": "./hooks.ajs",
+  "icon": "./null.svg"
+}
