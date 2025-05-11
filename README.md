@@ -10,3 +10,7 @@ This provides a template for an anura package repository, extended off of the cu
   - `apps` - List of applications as an array of metadata
   - `libs` - List of libraries as an array of metadata
   - `packages` - List of packages as an array of metadata
+
+## Notes
+
+- The `src` directory is nonstandard and is not part of the specification. This is only present in the repository to show the source of the test entries (test apps, test libs, test packages) and is not to be regarded as a change to the repository structure.
