@@ -1,1 +1,3 @@
-console.log("install.js hook");
+export default function install() {
+  console.log("install.js hook");
+}
